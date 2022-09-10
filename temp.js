@@ -1,6 +1,6 @@
 let first = 5;
 let second = 7;
-console.log(first, second);
+// console.log(first, second);
 // this is wrong approach
 // first = second;
 // second = first;
